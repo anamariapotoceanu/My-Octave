@@ -1,4 +1,4 @@
-## Copyright Potoceanu Ana-Maria 321CAb 2023-2024
+## Copyright Potoceanu Ana-Maria
 # Tema 2
 **Programarea calculatoarelor si limbajelor de programare**
 
