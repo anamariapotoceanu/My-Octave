@@ -1,4 +1,4 @@
-## Copyright Potoceanu Ana-Maria
+
 # Tema 2 - PCLP
 **Programarea calculatoarelor si limbajelor de programare**
 
