@@ -2,10 +2,6 @@
 # Tema 2
 **Programarea calculatoarelor si limbajelor de programare**
 
-Am folosit codul meu de anul trecut, deoarece tema este aceeasi. Am adaugat in
-plus implementarea pentru inmultirea a doua matrici folosind algoritmul
-lui Strassen.
-
 * In acest program, am folosit functii pentru alocarea dinamica a memoriei unei
 matrici, pentru eliberarea memoriei unei matrici, dar si pentru fiecare
 caracter citit de la tastatura caruia ii corespunde o comanda specifica.
