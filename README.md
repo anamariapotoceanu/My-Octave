@@ -1,5 +1,5 @@
 ## Copyright Potoceanu Ana-Maria
-# Tema 2
+# Tema 2 - PCLP
 **Programarea calculatoarelor si limbajelor de programare**
 
 * In acest program, am folosit functii pentru alocarea dinamica a memoriei unei
